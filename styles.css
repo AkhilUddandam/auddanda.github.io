@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+.body-skin {
+  margin: auto;
+  width: 60%;
+  border-left: 3px solid #73AD21;
+  padding-left: 2%;
+  border-right: 3px solid #73AD21;
+  padding-right: 2%;
+}
+
+.h1-center {
+  text-align: center;
+}
+
+.img-tesla {
+  width: 1000px;
+  height: 500px;
+  margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+
+.page-dividers {
+  text-align: center;
+  font-size:  x-large;
+  color: purple;
+}
